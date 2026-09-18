@@ -111,9 +111,9 @@ You can view the interactive Excel dashboard here:
 
 ## 📸 Dashboard Preview
 
-Add your dashboard screenshot here:
+The dashboard provides an interactive view of customer financial and payment-related data through KPIs, charts, PivotTables, and Slicers.
 
-`Dashboard_Preview.png`
+![FINOVA BANK Customer Insights Dashboard](Dashboard_Preview.png)
 
 ---
 
